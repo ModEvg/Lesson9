@@ -1,0 +1,15 @@
+C:\Документы\Обучение Женя\GIT\Lesson9\bin\Debug\net6.0\Lesson9.exe
+C:\Документы\Обучение Женя\GIT\Lesson9\bin\Debug\net6.0\Lesson9.deps.json
+C:\Документы\Обучение Женя\GIT\Lesson9\bin\Debug\net6.0\Lesson9.runtimeconfig.json
+C:\Документы\Обучение Женя\GIT\Lesson9\bin\Debug\net6.0\Lesson9.dll
+C:\Документы\Обучение Женя\GIT\Lesson9\bin\Debug\net6.0\Lesson9.pdb
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.csproj.AssemblyReference.cache
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.AssemblyInfoInputs.cache
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.AssemblyInfo.cs
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.csproj.CoreCompileInputs.cache
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.dll
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\refint\Lesson9.dll
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.pdb
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\Lesson9.genruntimeconfig.cache
+C:\Документы\Обучение Женя\GIT\Lesson9\obj\Debug\net6.0\ref\Lesson9.dll
